@@ -1,0 +1,1 @@
+SignSense supports individuals with speech disabilities, including those who are non-verbal or use sign language. Using advanced machine learning, it interprets sign gestures in real-time, fostering inclusive communication and empowerment for diverse communities, including the deaf, those with speech disorders, and the elderly.
