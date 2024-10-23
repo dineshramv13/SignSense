@@ -1,6 +1,6 @@
 # Sign Language Recognition App
 
-This application enables real-time sign language recognition using a webcam feed. It allows users to collect images, train a model, and run inference to detect hand gestures that correspond to letters of the alphabet. The application uses **Streamlit** for the interface, **OpenCV** for video processing, and **MediaPipe** for hand tracking and gesture detection.
+This application enables real-time sign language recognition using a webcam feed. It allows users to collect images, train a model, and run inference to detect hand gestures that correspond to letters of the alphabet. The application uses **OpenCV** for video processing, and **MediaPipe** for hand tracking and gesture detection.
 
 ## Features
 
